@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#auth:cyalu
 
 import os,logging
 base_dir=os.path.dirname(os.path.dirname(__file__))
