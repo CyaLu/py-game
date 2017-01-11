@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #人物血量
-BLOOD_VALUE = 500
+BLOOD_VALUE = 100
 #拳打伤害血量
 BLOW_BLOOD_VALUE = 2
 #脚踢伤害血量
