@@ -1,4 +1,4 @@
 FROM index.tenxcloud.com/tenxcloud/centos
 MAINTAINER Cya.Lu
-RUN yum install -y pcre-devel wget net-tools gcc zlib zlib-devel make openssl-devel nginx
+RUN yum install -y pcre-devel wget net-tools zlib zlib-devel openssl-devel nginx
 EXPOSE 80
